@@ -1,0 +1,23 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option1 Linked To,Option2 Name,Option2 Value,Option2 Linked To,Option3 Name,Option3 Value,Option3 Linked To,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Complementary products (product.metafields.shopify--discovery--product_recommendation.complementary_products),Related products (product.metafields.shopify--discovery--product_recommendation.related_products),Related products settings (product.metafields.shopify--discovery--product_recommendation.related_products_display),Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Included / India,Price / India,Compare At Price / India,Included / International,Price / International,Compare At Price / International,Status
+title-for-trending-saree-10,<title for trending saree 10>,"<p>&lt;description for saree&gt;</p>
+<!---->",KIMAYA,Apparel & Accessories > Clothing > Traditional & Ceremonial Clothing > Saris & Lehengas,"",trending,true,Color,yellow,,Packaging Options,Basic (+ Rs.0),,,,,,500.0,shopify,19,deny,manual,1899.00,2199.00,true,false,,https://cdn.shopify.com/s/files/1/0730/2050/6146/files/33ec273df87ea20f5528865bc1f96c18_fb82c75d-2eff-4a06-9297-df7785a9755a.jpg?v=1718535461,1,"",false,,,,,,,,,,,,,,,,,,g,,,true,,,true,,,active
+title-for-trending-saree-10,,,,,,,,,yellow,,,Premium (+ Rs.20),,,,,"",500.0,shopify,20,deny,manual,1919.00,2199.00,true,false,"",,,,,,,,,,,,,,,,,,,,,,g,,,,,,,,,
+title-for-trending-saree-10,,,,,,,,,yellow,,,Luxe (+ Rs.40),,,,,"",500.0,shopify,20,deny,manual,1939.00,2199.00,true,false,"",,,,,,,,,,,,,,,,,,,,,,g,,,,,,,,,
+title-for-trending-saree-10,,,,,,,,,test,,,test pack,,,,,'1,500.0,shopify,5,deny,manual,50.00,50.00,true,false,"",,,,,,,,,,,,,,,,,,,,,,g,,,,,,,,,
+title-for-saree10,<title for renting saree10>,"<p>asdsadsadasd</p>
+<!---->",KIMAYA,Apparel & Accessories > Clothing > Traditional & Ceremonial Clothing > Saris & Lehengas,Paithani Saree,for_rent,true,Number of Days to rent (Min 1 and Max 5),1,,,,,,,,,5000.0,shopify,20,deny,manual,300.00,,true,false,,https://cdn.shopify.com/s/files/1/0730/2050/6146/files/tr-paithani-ranipink_3_4894fbfd-1705-47f9-b2db-d15939ce1e45.jpg?v=1718560831,1,"",false,,,,,,,,,,,,,,,,,,g,,1500.00,true,,,true,,,active
+title-for-saree10,,,,,,,,,2,,,,,,,,"",5000.0,shopify,20,deny,manual,600.00,,true,false,"",,,,,,,,,,,,,,,,,,,,,,g,,1500.00,,,,,,,
+title-for-saree10,,,,,,,,,3,,,,,,,,"",5000.0,shopify,20,deny,manual,900.00,,true,false,"",,,,,,,,,,,,,,,,,,,,,,g,,1500.00,,,,,,,
+title-for-saree10,,,,,,,,,4,,,,,,,,"",5000.0,shopify,20,deny,manual,1200.00,,true,false,"",,,,,,,,,,,,,,,,,,,,,,g,,1500.00,,,,,,,
+title-for-saree10,,,,,,,,,5,,,,,,,,"",5000.0,shopify,20,deny,manual,1500.00,,true,false,"",,,,,,,,,,,,,,,,,,,,,,g,,1500.00,,,,,,,
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
