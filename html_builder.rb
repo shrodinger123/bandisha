@@ -2,7 +2,7 @@ require 'rubyXL'
 require 'pry'
 puts "Loading products ..."
 # workbook = RubyXL::Parser.parse 'ynf_products/Merge (14-08-2024).xlsx'
-workbook = RubyXL::Parser.parse 'ynf_products/sarees-5001-end.xlsx'
+workbook = RubyXL::Parser.parse 'ynf_products/new-products-4001-end.xlsx'
 # workbook = RubyXL::Parser.parse 'ynf_products/test.xlsx'
 # workbook = RubyXL::Parser.parse 'ynf_products/OnlySarees.xlsx'
 puts "Workbook loaded .."
@@ -12,9 +12,9 @@ puts "Found #{worksheets.count} worksheets"
 worksheet1 = worksheets[0]
 
 @start_row = 2
-@end_row = 380
+@end_row = 513
 
-File.open("ynf_products/sarees-5001-end.html", 'w') do |f|
+File.open("ynf_products/new-products-4001-end.html", 'w') do |f|
   f.write(%Q[<!DOCTYPE html>
 <html>
 <head>
